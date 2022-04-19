@@ -7,10 +7,6 @@ angle: 130
 links:
   - label: Google Scholar
     url: "https://scholar.google.com/citations?user=uyFXeZkAAAAJ&hl=en&authuser=1"
-  - label: Vimeo
-    url: "https://vimeo.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
   - label: Email
     url: "mailto:fanc@ccf.org"
 output:
@@ -22,11 +18,11 @@ Cong Fan is a medical and MPH student at the Cleveland Clinic Lerner College of 
 
 # Education
 
-* **Doctor of Medicine**, Cleveland Clinic Lerner College of Medicine, Cleveland, OH (2020-Present, anticipated 2025)
+* Doctor of Medicine | **Cleveland Clinic Lerner College of Medicine** | Cleveland, OH (2020-Present, anticipated 2025)
 
-* **Master of Public Health**, Concentration in Population Health Research, Case Western Reserve University, Cleveland, OH (2020-Present, anticipated 2025)
+* Master of Public Health, Concentration in Population Health Research | **Case Western Reserve University** | Cleveland, OH (2020-Present, anticipated 2025)
 
-* **Bachelor of Arts in Biology, Concentration in Molecular and Cell Biology; Bachelor of Arts in Anthropology**, Cornell University, College of Arts and Sciences, Ithaca NY (2012-2016)
+* Bachelor of Arts in Biology, Concentration in Molecular and Cell Biology; Bachelor of Arts in Anthropology | **Cornell University**, College of Arts and Sciences | Ithaca NY (2012-2016)
 
 
 # Publications
