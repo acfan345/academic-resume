@@ -9,6 +9,9 @@ links:
     url: "https://scholar.google.com/citations?user=uyFXeZkAAAAJ&hl=en&authuser=1"
   - label: Email
     url: "mailto:fanc@ccf.org"
+  - label: Misc
+    url: "misc.html"
+  
 output:
   postcards::trestles
 ---
