@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: "About Me"
 image: "cats.jpg"
@@ -11,4 +12,19 @@ output:
   postcards::jolla
 ---
  
+=======
+---
+title: "About Me"
+image: "cats.jpg"
+links:
+  - label: Back to Main Page
+    url: "index.html"
+  - label: Pottery
+    url: "pottery.html"
+  - label: Art (In Progress)
+output:
+  postcards::jolla
+---
+ 
+>>>>>>> a99562996e9e6b24c4874588b78348ece0708840
 In my free time, I enjoy reading, lifting, pottery and art. I have two cats (pictured above), names Egg and Butters. Please click on the links above if you would like to see any of my work. 
