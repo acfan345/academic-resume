@@ -16,10 +16,17 @@ output:
   postcards::trestles
 ---
 
+```{r, echo = FALSE, message = FALSE}
+library(fontawesome)
+```
+
+
 # Bio 
 Cong Fan is a medical and MPH student at the Cleveland Clinic Lerner College of Medicine at Case Western Reserve University. Her interests include statistics, oncology and disparities research.
 
-# Education
+&nbsp;  
+
+## Education
 
 * Doctor of Medicine | **Cleveland Clinic Lerner College of Medicine** | Cleveland, OH (2020-Present, anticipated 2025)
 
@@ -27,8 +34,39 @@ Cong Fan is a medical and MPH student at the Cleveland Clinic Lerner College of 
 
 * Bachelor of Arts in Biology, Concentration in Molecular and Cell Biology; Bachelor of Arts in Anthropology | **Cornell University**, College of Arts and Sciences | Ithaca NY (2012-2016)
 
+&nbsp;  
 
-# Publications
+### Skills
+
+<section id=skills class="home-section wg-featurette">
+<div class=home-section-bg>
+</div>
+<div class=container>
+<div class="row featurette">
+<div class="col-md-12 section-heading">
+</div>
+<div class="col-12 col-sm-4">
+<div class=featurette-icon>`r fa("r-project", fill = "steelblue")`</div>
+<div class=section-subheading>R/RStudio</div>
+</div>
+
+<div class="col-12 col-sm-4">
+<div class=featurette-icon>`r fa("laptop", fill = "steelblue")`</div>
+<div class=featurette-icon><i class="fab fa-java"></i></div>
+<div class=section-subheading>Statistics</div>
+
+</div>
+<div class="col-12 col-sm-4">
+<div class=featurette-icon>`r fa("python", fill = "steelblue")`</div>
+<div class=section-subheading>Python</div>
+</div>
+</div>
+</div>
+</section>
+
+&nbsp;  
+
+## Publications
 
 † Indicates equal authorship
 
