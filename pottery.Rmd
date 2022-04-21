@@ -11,4 +11,14 @@ output:
 ---
 # 2022 Pieces
 
-<img src="bowl_2022.jpg" alt="2020 Bowl" style="height: 291px; width:260px;"/>
+<img src="bowl_2022.jpg" alt="Bowl 2022" style="height: 291px; width:260px;"/>
+
+*Serving bowl, Winter 2022*
+
+<img src="cup 2022.jpg" alt="Cup 2022" style="height: 237px; width:264px;"/>
+
+*Cup, Winter 2022*
+
+<img src="mug_2022.jpg" alt="Mug 2022" style="height: 252px; width:270px;"/>
+
+*Mug, Winter 2022*
