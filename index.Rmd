@@ -1,5 +1,5 @@
 ---
-title: "Cong Fan"
+title: "Cong (Ava) Fan"
 image: "avatar_small.jpg"
 color1: "#5A59A3"
 color2: "#C66060"
@@ -22,7 +22,7 @@ library(fontawesome)
 
 
 # Bio 
-Cong Fan is a medical and MPH student at the Cleveland Clinic Lerner College of Medicine at Case Western Reserve University. Her interests include statistics, oncology and disparities research.
+Cong Fan is a medical and MPH student at the Cleveland Clinic Lerner College of Medicine at Case Western Reserve University. Her interests include statistics, oncology and research.
 
 &nbsp;  
 
@@ -70,9 +70,19 @@ Cong Fan is a medical and MPH student at the Cleveland Clinic Lerner College of 
 
 † Indicates equal authorship
 
+* Erickson KL, **Fan C**, Eley SJ, et al. UV safety recommendations and health claims by U.S. tanning salon operators in a nationally representative sample. Journal of Cosmetic Dermatology. 2022 Aug. DOI: 10.1111/jocd.15288. PMID: 36045511.
 * Erickson KL, Eley SJ, **Fan C**, Narang J, Gendi SW, Ouyang K, Zheng DX, Bordeaux JS, The paradoxical promotion of ultraviolet tanning by U.S. tanning salons offering a sunless option: A cross-sectional secret shopper study, Journal of the American Academy of Dermatology (2022), doi: https://doi.org/10.1016/j.jaad.2022.07.027. 
 * Reader JC†, **Fan C†**, Ory EC-H, Ju J, Lee R, Vitolo MI, Smith P, Wu S, Ching MMN, Asiedu EB, Jewell CM, Rao GG, Fulton A, Webb TJ, Yang P, Santin AD, Huang H-C, Martin SS, Roque DM. Microtentacle Formation in Ovarian Carcinoma. Cancers. 2022; 14(3):800. https://doi.org/10.3390/cancers14030800
 * Markwei MT, Babatunde I, Rathi N, **Fan C**, et al. Preincision adjunctive prophylaxis for cesarean deliveries a systematic review and meta-analysis. Am J Obstet Gynecol 2021;225(4):382.e1-382.e13.
 * **Fan C**. “Exercise for preventing falls in older people living in the community: Summary of a cochrane review.” Explore (NY). 2020;16(4):274. doi:10.1016/j.explore.2020.05.005
 * Wu JJ, Cai A, Greenslade JE, Higgins NR, **Fan C**, et al. “ALS/FTD mutations in UBQLN2 impede autophagy by reducing autophagosome acidification through loss of function.” Proc Natl Acad Sci U S A. 2020;201917371. doi:10.1073/pnas.1917371117
 * **Fan CA**, Reader J, Roque DM. “Review of Immune Therapies Targeting Ovarian Cancer.” Curr Treat Options Oncol. 2018;19(12):74. Published 2018 Nov 14. doi:10.1007/s11864-018-0584-3
+
+### Abstracts Accepted for Poster Presentation
+
+*	**Fan C**, Lee J, Stock S, Koyfman S. “The role of radiographic extranodal extension as a prognostic factor in HPV+ oropharyngeal cancer.” AHNS 11th International Conference on Head and Neck Cancer. Montreal, QC Canada (2023). [Accepted]
+*	**Fan C**, Reader J, Ory E, Lee C, Ju J, Mathias T, Vitolo M, Martin S, Jewell C, Roque DM. “Characterization of microtentacle phenotype and function in ovarian carcinomas.” AACR Special Conference: Advances in Ovarian Cancer Research. Peachtree, GA (2019).
+*	**Fan C**, Reader J, Ory E, Lee C, Vitolo M, Martin S, Jewell C, Roque DM. “Microtentacle composition and tubulin isotype among ovarian carcinomas.”  10th Annual Cancer Biology Retreat. University of Maryland, Baltimore, MD (2019).
+*	**Fan C**, Reader J, Rao G, Staats P, Ching M, Fulton A, Roque D. “EP4 receptor antagonism in paclitaxel-resistant ovarian clear cell carcinomas.” Addressing Critical Questions in Ovarian Cancer Research and Treatment. Pittsburgh, PA, (2017) 
+*	**Fan C**, Reader J, Ory E, Lee C, Vitolo M, Martin S, Jewell C, Roque DM. “Microtentacle composition and tubulin isotype among ovarian carcinomas.”  Mid-Atlantic Gyn Onc Society (MAGOS). Charleston, SC, (2017).
+
