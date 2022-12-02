@@ -1,4 +1,6 @@
-git commit -m "third commit" .
+- Right click --> Git BASH here
+
+
 
 git branch -M main
 git push -u origin main
@@ -8,3 +10,4 @@ git add *
 
 git commit -am 'Conflicts resolved'
 git pull
+git commit -m "third commit" .
