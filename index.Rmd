@@ -11,8 +11,8 @@ links:
     url: "https://orcid.org/0009-0009-7728-9264" 
   - label: Email
     url: "mailto:fanc@ccf.org"
-  - label: Misc
-    url: "misc.html"
+ # - label: Misc
+  #  url: "misc.html"
   
 output:
   postcards::trestles
@@ -24,7 +24,7 @@ library(fontawesome)
 
 
 # Bio 
-Cong Fan is a medical student at the Cleveland Clinic Lerner College of Medicine at Case Western Reserve University. Her interests include  oncology, statistics and research.
+Medical student at the Cleveland Clinic Lerner College of Medicine at Case Western Reserve University. Interests include: oncology, statistics and research.
 
 &nbsp;  
 
@@ -67,4 +67,3 @@ Cong Fan is a medical student at the Cleveland Clinic Lerner College of Medicine
 </section>
 
 &nbsp;  
-
